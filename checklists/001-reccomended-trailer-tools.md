@@ -17,7 +17,7 @@ These are the reccomended tools to bring when working on the TCARES Emergency Co
 - **adjustable wrench (Crescent)**, minimum 3/4" opening (Reccomended: A 6" and 12")
 - Slip joint pliers
 - **Side Cutters**
-- Flashlight (headlamp suggested)
+- **Flashlight (headlamp suggested)**
 - Industrial Hand cleaner (Go-Jo Reccomended)
 - Electrical Tape
 - **Cable Ties**
