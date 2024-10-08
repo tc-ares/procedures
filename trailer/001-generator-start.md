@@ -12,12 +12,12 @@ Please complete these steps in EXACT order, or you risk damaging the generator.
 
 ## At Engine Compartment
 
-- **Step 6:** Unlock bolt 1
-- **Step 7:** Unlock bolt 2
+- **Step 6:** Unlock bolt & handle 1
+- **Step 7:** Unlock bolt & handle 2
 - **Step 8:** Lift door (caution will slam shut)
 - **Step 9:** Remove left panel (on geneartor)
 - **Step 10:** Check oil level using dipstick
-- **Step 11:** Read and record hours in log book (hours in upper left area)
+- **Step 11:** Read and confirm/record generator hours in log book at start of deployment (hours in upper left area)
 - **Step 12:** Check coolant level (should be between min and max)
 
 ## Start Generator
